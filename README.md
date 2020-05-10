@@ -1,3 +1,4 @@
+
 # Configuring Nginx and uWSGI on ubuntu 18.04
 ```
 sudo apt install python3-pip python3-dev build-essential libssl-dev libffi-dev python3-setuptools
@@ -116,3 +117,4 @@ Binding file to sites-enabled directory
 Type 0.0.0.0:3000 in your browser
  ``` 
     
+
